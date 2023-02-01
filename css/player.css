@@ -1,0 +1,113 @@
+body {
+  background-color: #232323;
+  color: white;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+
+.header {
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 1rem;
+}
+
+.header__title {
+margin: 0;
+}
+
+.header__search-container {
+display: flex;
+align-items: center;
+}
+
+.header__search-input {
+background-color: #444;
+border: 1px solid #fff;
+color: #fff;
+padding: 0.5rem;
+margin-right: 0.5rem;
+border-radius: 0.25rem;
+width: 1500px;
+}
+
+.header__search-button {
+background-color: #06c;
+border: 1px solid #06c;
+color: #fff;
+padding: 0.5rem 1rem;
+border
+}
+
+.header__video-title {
+background-color: #06c;
+border: 1px solid #06c;
+color: #fff;
+padding: 0.5px 1px;
+text-align: center;
+font-size: 8px;
+}
+
+.video-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+video {
+  margin: 20px;
+  width: 1300px;
+  height: 700px;
+  object-fit: cover;
+  z-index: -100;
+}
+
+
+img {
+  width: 200px;
+}
+
+#tip {
+  display: block;
+  margin-top: 50px;
+  height: 175px;
+}
+
+.tip {
+  float: left;
+  height: 150px;
+  width: 100px;
+  background: red;
+}
+
+#tip_item_content {
+  float: left;
+  background: gold;
+}
+
+.tip_item_content_title {
+  display: block;
+}
+
+.tip_item_content_year {
+  float: right;
+}
+
+.tip_item_content_plot {
+  display: block;
+}
+
+.tip_item_toolbar {
+  clear: both;
+  vertical-align: margin-bottom;
+  width: 100%;
+  height: 25px;
+}
+

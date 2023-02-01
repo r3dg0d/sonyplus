@@ -1,7 +1,4 @@
-# SonyPlus
-Sony Plus is an AI-assisted codebase that has full-fledged video hosting functionality for selling a monthly movie / webGL gaming subscription 
-
-[Screenshot](https://raw.githubusercontent.com/r3dg0d/sonyplus/main/sonyplus.png)
+[Sony Plus](https://i.imgur.com/8Ag7chU.png)
 
 # What is SonyPlus?
 

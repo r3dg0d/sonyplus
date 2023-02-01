@@ -1,0 +1,45 @@
+<!-- player.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="512x512"  href="/android-chrome-512x512.png">
+    <meta charset="UTF-8">
+    <title>Video Player</title>
+    <link rel="stylesheet" type="text/css" href="css/player.css">
+  </head>
+  <body>
+    <div class="player-container">
+      <div class="video-player">
+        <video id="video" src="The.Dark.Knight.Rises.2012.1080p.BluRay.x264.YIFY.mp4" controls></video>
+      </div>
+      <div class="comments-section">
+        <h3>Comments</h3>
+        <ul id="comments-list"></ul>
+        <form>
+          <textarea id="comment-input"></textarea>
+          <button id="submit-comment">Submit</button>
+        </form>
+      </div>
+    </div>
+    <div class="sidebar">
+      <h3>Other Videos</h3>
+      <ul id="video-list"></ul>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
+
+<!-- Add livepeer.js code and upload movies / videos to livepeer then serve
+them in this player html file, using http / https / tls and the livepeer API
+
+Livepeer documentation: https://docs.livepeer.org/reference/livepeer-js
+
+Some videos to help learn nodejs and react (if you don't already know back-end dev):
+
+https://www.youtube.com/watch?v=ENrzD9HAZK4
+https://www.youtube.com/watch?v=_UPeWQbx98Y
+
+Livepeer runs off of $ETH (Ethereum) btw, so in theory this could boost ethereum price and blockchain size.-->
