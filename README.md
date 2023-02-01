@@ -20,6 +20,7 @@
 - Install XAMPP
 - Start an Apache and MySQL server
 - go to localhost/sonyplus to see the site live
+- Bookmark livepeer [https://docs.livepeer.org/reference/livepeer-js]
 
 # Developers only (yes, you.)
 
