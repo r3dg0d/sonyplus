@@ -2,30 +2,30 @@
 
 # What is SonyPlus?
 
-SonyPlus is a Web3 Video Streaming platform utilizing livepeer for p2p movie viewing, video uploading, and livestreaming!
+- SonyPlus is a Web3 Video Streaming platform utilizing livepeer for p2p movie viewing, video uploading, and livestreaming!
 
-It is at its core a twitch.tv or youtube.com competitor, even competes with disney+ and amazon prime video!
+- It is at its core a twitch.tv or youtube.com competitor, even competes with disney+ and amazon prime video!
 
-It is in it's early stages of development, and the official web3 version of sonyplus will be available for free!
+- It is in it's early stages of development, and the official web3 version of sonyplus will be available for free!
 
-We will also have a sonyplus subscription service for $10 / mo for premium content, and less ads.
+- We will also have a sonyplus subscription service for $10 / mo for premium content, and less ads.
 
-Eventually, we might experiment with a webGL based browser gaming experience too!
+- Eventually, we might experiment with a webGL based browser gaming experience too!
 
-Until then, feel free to recommend ideas in the issues tab, or fork this repo / star it and help develop something great!
+- Until then, feel free to recommend ideas in the issues tab, or fork this repo / star it and help develop something great!
 
 # Install
 
-Download the github repo
-Install XAMPP
-Start an Apache and MySQL server
-go to localhost/sonyplus to see the site live
+- Download the github repo
+- Install XAMPP
+- Start an Apache and MySQL server
+- go to localhost/sonyplus to see the site live
 
 # Developers only (yes, you.)
 
-If you want to view the source code and help with the project, open an issue, and then I may or may not give you permission to fork it and edit code.
+- If you want to view the source code and help with the project, open an issue, and then I may or may not give you permission to fork it and edit code.
 
-Join our community discord if you want to help make the future of film and entertainment: https://discord.gg/qSMVEYybbH
+- Join our community discord if you want to help make the future of film and entertainment: https://discord.gg/qSMVEYybbH
 
 # CLOSED SOURCE LICENSE (LEGAL STUFF)
 
